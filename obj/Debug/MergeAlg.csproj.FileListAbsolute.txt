@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\MergeAlg\MergeAlg\bin\Debug\MergeAlg.exe.config
+C:\Users\Acer\source\repos\MergeAlg\MergeAlg\bin\Debug\MergeAlg.exe
+C:\Users\Acer\source\repos\MergeAlg\MergeAlg\bin\Debug\MergeAlg.pdb
+C:\Users\Acer\source\repos\MergeAlg\MergeAlg\obj\Debug\MergeAlg.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MergeAlg\MergeAlg\obj\Debug\MergeAlg.exe
+C:\Users\Acer\source\repos\MergeAlg\MergeAlg\obj\Debug\MergeAlg.pdb
